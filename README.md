@@ -2,7 +2,7 @@
 
 I am a Frontend Engineer dedicated to crafting beautiful and intuitive digital experiences. With deep expertise in modern JavaScript frameworks like React and Next.js, I specialize in building scalable, high-performance web architectures that engage users and drive business value.
 
-I have achieved significant performance improvements, including reducing page load times by up to 130% for several high-traffic websites. By combining clean, efficient code with a strong commitment to optimization, I ensure that each project delivers a top-tier experience, regardless of the user's device or network conditions.
+I have achieved significant performance improvements, including reducing page load times for several high-traffic websites. By combining clean, efficient code with a strong commitment to optimization, I ensure that each project delivers a top-tier experience, regardless of the user's device or network conditions.
 
 I bring extensive experience in microfrontend architecture, building UI libraries, responsive design, and automation. I am constantly driven to innovate and push the boundaries of what is possible in web development.
 
